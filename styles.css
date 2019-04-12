@@ -7,7 +7,8 @@ body{
 
 .content{
 	grid-area : content;
-	background: url(images/background-shapes.jpg);
+	background: url(images/download.jpg);
+	background-size: cover;
 	/*background-repeat: no-repeat;*/
 
 
